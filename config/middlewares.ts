@@ -40,7 +40,6 @@ export default [
         "https://info-strapi-cms.vercel.app",
         "https://*.vercel.app",
         "https://*.railway.app",
-        "https://strapi-backend-production-6f50.up.railway.app",
         "*"
       ]
     }
