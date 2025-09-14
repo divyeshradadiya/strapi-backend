@@ -38,7 +38,10 @@ export default [
       origin: [
         "http://localhost:3000",
         "https://info-strapi-cms.vercel.app",
-        "https://*.vercel.app"
+        "https://*.vercel.app",
+        "https://*.railway.app",
+        "https://strapi-backend-production-6f50.up.railway.app",
+        "*"
       ]
     }
   },
